@@ -17,10 +17,10 @@ Jeweler::Tasks.new do |gem|
   gem.name = "movr_acts_as_likeable"
   gem.homepage = "http://github.com/darmou/movr_acts_as_likeable"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Social Media Acts As Likeable}
+  gem.description = %Q{This gem is heavily influenced by acts_as_voteable & acts_as_rateable, can be used for Thumbs Up/Down or Likes/Dislikes situations, also helps to get the Percentage of Likes to Dislikes and vice versa on an Object, to depict average popularity.}
   gem.email = "dmoulder@qtome.com"
-  gem.authors = ["Daryl Moulder"]
+  gem.authors = ["Daryl Moulder, https://github.com/umerfarooq"]
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new

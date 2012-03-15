@@ -1,4 +1,4 @@
-# ActsAsLikeable
+# MovrActsAsLikeable
 module ActiveRecord
   module Acts
     module Likeable
