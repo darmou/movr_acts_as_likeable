@@ -27,6 +27,7 @@ Gem::Specification.new do |s|
     "init.rb",
     "lib/liking.rb",
     "lib/movr_acts_as_likeable.rb",
+    "movr_acts_as_likeable.gemspec",
     "test/helper.rb",
     "test/test_movr_acts_as_likeable.rb"
   ]
