@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Daryl Moulder, https://github.com/umerfarooq"]
-  s.date = %q{2012-03-15}
+  s.date = %q{2012-03-22}
   s.description = %q{This gem is heavily influenced by acts_as_voteable & acts_as_rateable, can be used for Thumbs Up/Down or Likes/Dislikes situations, also helps to get the Percentage of Likes to Dislikes and vice versa on an Object, to depict average popularity.}
   s.email = %q{dmoulder@qtome.com}
   s.extra_rdoc_files = [
@@ -25,7 +25,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "init.rb",
-    "lib/liking.rb",
+    "lib/like.rb",
     "lib/movr_acts_as_likeable.rb",
     "movr_acts_as_likeable.gemspec",
     "test/helper.rb",
